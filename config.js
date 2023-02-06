@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','742344502']
 //-------------
 
 
@@ -61,7 +61,7 @@ global.APIs = {
 } 
  
 global.APIKeys = {
-	'https://zenzapis.xyz': '' }
+	'https://zenzapis.xyz': '8a3076e46d' }
     
 
 
@@ -70,22 +70,22 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'public'
 
    //---------------------------------------------------------------------
    
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['44742739470']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['44742344502']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = 'тωσяℓ∂' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = 'тє🅲🅷🅽🅾🅻🅰🅽🅳𝙒𝙊𝙍𝙇𝘿'
 
    //---------------------------------------------------------------------
 
@@ -95,9 +95,9 @@ global.APIKeys = {
 
    //--------------------- MENU URL BUTTON 1 ------------------------
 
-   global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
+   global.linkbuttid1 = '🅃🅆🄾🅁🄻🄳' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'http://technolandworldblog.blogspot.com'
    
    //---------------------------------------------------------------------
 
@@ -105,9 +105,9 @@ global.APIKeys = {
 
    //--------------------- MENU URL BUTTON 2 ------------------------
 
-   global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
+   global.linkbuttid2 = '🄾🅄🅁🄲🄾🄼🄼🅄🄽🄸🅃🅈'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://chat.whatsapp.com/IX00RyPG07d7i5lvBoekcc'
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'https://youtube.com/c/tworld'
    
    //---------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ global.APIKeys = {
 
    //--------------------- MAIN IMAGE  ------------------------
 
-   global.profileimage = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.profileimage = 'https://telegra.ph/file/62333464ba8d6a28e1f4f.jpg'
       
    //---------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ global.APIKeys = {
 
    //--------------------- URL IMAGE  ------------------------
 
-   global.mainimgurl = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.mainimgurl = 'https://telegra.ph/file/62333464ba8d6a28e1f4f.jpg'
       
    //---------------------------------------------------------------------
 
@@ -148,9 +148,9 @@ global.APIKeys = {
 
    //--------------------- MAIN MENU BUTTON ------------------------
    
-   global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
+   global.mlinktxt1 = '🆃🆆🅾🆁🅻🅳🅼🅳🅱🅾🆃'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 = 'https://chat.whatsapp.com/IX00RyPG07d7i5lvBoekcc'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -160,7 +160,7 @@ global.APIKeys = {
    //-------------
  
  //------ REP BUTTON 1 -----
-   global.mbuttxt1 = 'ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ'
+   global.mbuttxt1 = '𝙏𝙒𝙊𝙍𝙇𝘿ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ'
    //-------------
    global.mbutid1 = 'command'
    //-------------
@@ -187,37 +187,37 @@ global.APIKeys = {
 //-------------
 global.premium = [`${ownernum}`]
 //-------------
-global.sessionName = 'session.alfa'
+global.sessionName = 'session.json'
 //-------------
 global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = 'ツＴＷＯＲＬＤ ⃢ＢＯＴッ'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['+94742739470']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = 'ツＴＷＯＲＬＤ ⃢ＢＯＴッ' 
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = '𝔗𝔚𝔒ℜ𝔏𝔇𝔐𝔇𝔅𝔒𝔗'
 //-------------
 global.icon = '✩' 
 //-------------
-global.mail = 'AlienAlfa.YT@gmail.com'
+global.mail = 'tworld.git@gmail.com'
 //-------------
-global.youtube = 'https://youtube.com/c/alienalfa'
+global.youtube = 'https://youtube.com/c/tworld'
 //-------------
-global.github = 'https://github.com/Alien-alfa/' 
+global.github = 'https://github.com/' 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = 'https://www.instagram.com/tworld/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = '𝙏𝙒𝙊𝙍𝙇𝘿 𝙈𝘿 𝘽𝙊𝙏'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = '𝙏𝙒𝙊𝙍𝙇𝘿 𝙈𝘿 𝘽𝙊𝙏' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -232,17 +232,17 @@ global.herokuapp = ''
 //-------------
 global.welcomeactive =  true
 //-------------
-global.alivemess = false
+global.alivemess = true
 //-------------
-global.aliveimage = false
+global.aliveimage = true
 //-------------
 global.speedmode =  'active'
 //-------------
 global.ownermess = 'ʜᴇʏ ᴛʜɪꜱ ɪꜱ ᴍʏ ᴏᴡɴᴇʀ, ᴘʟᴇᴀꜱᴇ ᴛᴀʟᴋ ɪɴ ᴇɴɢʟɪꜱʜ'
 //-------------
-global.autoread = false 
+global.autoread = true 
 //-------------
-global.anticall = false 
+global.anticall = true 
 //-------------
 
 
